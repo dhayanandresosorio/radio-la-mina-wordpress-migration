@@ -24,7 +24,7 @@ La web se organizó en páginas principales:
 - Escucha en directo
 - Programación
 - Programas
-- A la carta
+
 - Noticias
 - Sobre la radio
 - Contacto

@@ -54,7 +54,7 @@ El trabajo incluyó diseño visual, estructura de contenidos, integración de em
 - Escucha en directo
 - Programación
 - Programas
-- A la carta
+
 - Noticias
 - Sobre la radio
 - Contacto
